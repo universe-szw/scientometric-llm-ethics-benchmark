@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Scientometric LLM Ethics Benchmark"
+message: "If you use this dataset or code, please cite the associated Scientometrics manuscript."
+type: dataset
+authors:
+  - family-names: Shen
+    given-names: Zhewei
+  - family-names: Liu
+    given-names: Yujie
+  - family-names: Liu
+    given-names: Yanbo
+  - family-names: Wang
+    given-names: Zhaofeng
+  - family-names: Yuan
+    given-names: Sha
+repository-code: "TBD"
+date-released: 2026-07-02
+license: MIT
