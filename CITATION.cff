@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Scientometric LLM Ethics Benchmark"
-message: "If you use this dataset or code, please cite the associated Scientometrics manuscript."
+message: "If you use this dataset, please cite the associated Scientometrics manuscript."
 type: dataset
 authors:
   - family-names: Shen
