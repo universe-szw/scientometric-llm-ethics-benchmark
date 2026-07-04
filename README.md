@@ -2,7 +2,7 @@
 
 This repository provides the benchmark prompts, model responses, scoring results, and two experiment-running scripts used in the associated manuscript workflow.
 
-The release contains constructed benchmark materials rather than real institutional evaluation records. Human raters are represented only by anonymized labels, and the files do not include rater identities, API credentials, internal analysis notes, or long judge rationales.
+The release contains constructed benchmark materials rather than real institutional evaluation records. Human raters are represented only by anonymized labels, and the files do not include rater identities or API credentials.
 
 ## Directory structure
 
