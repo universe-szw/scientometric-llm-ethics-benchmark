@@ -10,7 +10,6 @@ from pathlib import Path
 from typing import Any
 from urllib import error, request
 
-
 OUTPUT_COLUMNS = [
     "evaluated_model_id",
     "evaluated_model_name",
