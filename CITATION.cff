@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Scientometric LLM Ethics Benchmark"
-message: "If you use this dataset or code, please cite the associated Scientometrics manuscript."
+message: "If you use this dataset or code, please cite the published article in preferred-citation."
 type: dataset
 authors:
   - family-names: Shen
@@ -16,3 +16,25 @@ authors:
 repository-code: "https://github.com/universe-szw/scientometric-llm-ethics-benchmark"
 date-released: 2026-07-02
 license: MIT
+preferred-citation:
+  type: article
+  title: "Ethical evaluation of large language models for scientometrics: a multidimensional perspective"
+  authors:
+    - family-names: Shen
+      given-names: Zhewei
+    - family-names: Liu
+      given-names: Yujie
+    - family-names: Liu
+      given-names: Yanbo
+    - family-names: Wang
+      given-names: Zhaofeng
+    - family-names: Yuan
+      given-names: Sha
+  journal: Scientometrics
+  volume: "131"
+  start: 7001
+  end: 7024
+  year: 2026
+  date-published: 2026-08-20
+  doi: "10.1007/s11192-026-05773-0"
+  url: "https://doi.org/10.1007/s11192-026-05773-0"
