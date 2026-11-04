@@ -6,7 +6,7 @@ The release contains constructed benchmark materials rather than real institutio
 
 ## Maintenance
 
-This project has been led and maintained by Zhewei Shen ([@universe-szw](https://github.com/universe-szw)) since its inception. The initial manuscript data-release commits used anonymized author metadata, and the original commit history is preserved. All post-publication maintenance and engineering improvements are carried out under this GitHub identity.
+This project has been led and maintained by Zhewei Shen ([@universe-szw](https://github.com/universe-szw); [ORCID: 0009-0009-2262-8863](https://orcid.org/0009-0009-2262-8863)) since its inception. The initial manuscript data-release commits used anonymized author metadata, and the original commit history is preserved. All post-publication maintenance and engineering improvements are carried out under this GitHub identity.
 
 Please use GitHub Issues to report problems with the data, scripts, or documentation.
 

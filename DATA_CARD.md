@@ -4,6 +4,8 @@
 
 This release accompanies Shen et al. (2026), *Ethical evaluation of large language models for scientometrics: a multidimensional perspective*, *Scientometrics*, 131, 7001-7024. DOI: https://doi.org/10.1007/s11192-026-05773-0.
 
+Maintainer: Zhewei Shen ([@universe-szw](https://github.com/universe-szw); [ORCID: 0009-0009-2262-8863](https://orcid.org/0009-0009-2262-8863)).
+
 The benchmark consists of constructed research-evaluation scenarios. It does not contain authentic institutional evaluation records or establish the suitability of a model for consequential decisions. Intended uses include examining model behavior under the released rubric, reproducing descriptive summaries, and investigating evaluation methods.
 
 ## Construction and dimensions

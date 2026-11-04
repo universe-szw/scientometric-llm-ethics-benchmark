@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: Shen
     given-names: Zhewei
+    orcid: "https://orcid.org/0009-0009-2262-8863"
   - family-names: Liu
     given-names: Yujie
   - family-names: Liu
@@ -22,6 +23,7 @@ preferred-citation:
   authors:
     - family-names: Shen
       given-names: Zhewei
+      orcid: "https://orcid.org/0009-0009-2262-8863"
     - family-names: Liu
       given-names: Yujie
     - family-names: Liu
